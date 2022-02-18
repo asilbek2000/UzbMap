@@ -1,0 +1,6 @@
+Bu vazifani tekshirish uchun quyidagi ketma ketlikda malumot qoshish kerak boladi
+Region 
+District
+Address
+User
+Car
